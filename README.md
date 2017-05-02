@@ -6,5 +6,5 @@ A collection of Javascript tips and techniques I have found through blogs and ot
 
 # React/Redux
 
-[architecture]('/react/architecture.md')
-[reducer]("/react/reducer/reducerTricks.md")
+[architecture]('https://github.com/colinritchey/JS-Tricks/blob/master/react/architecture.md')
+[reducer]("https://github.com/colinritchey/JS-Tricks/blob/master/react/reducer/reducerTricks.md")
