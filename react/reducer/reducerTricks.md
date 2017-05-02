@@ -1,5 +1,5 @@
 
-source: [Build yourself a Redux]('https://zapier.com/engineering/how-to-build-redux/')
+source: [Build yourself a Redux](https://zapier.com/engineering/how-to-build-redux/)
 
 Author: Justin Deal
 

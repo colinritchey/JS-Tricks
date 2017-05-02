@@ -1,4 +1,4 @@
-source: [How to better build your react applications]('https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1')
+source: [How to better build your react applications](https://medium.com/@alexmngn/how-to-better-organize-your-react-applications-2fd3ea1920f1)
 
 Author: Alexis Mangin
 
